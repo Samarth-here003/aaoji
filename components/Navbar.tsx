@@ -14,8 +14,8 @@ export default function Navbar() {
       <Link href="/" aria-label="Go to homepage">
         <div className="border-2 border-red-600 p-1">
           <Image
-            src="/logo.png"
-            alt="Aaoji Logo"
+            src="/aaoji logo.jpg"
+            alt="aaoji logo"
             width={90}
             height={40}
             priority

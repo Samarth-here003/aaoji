@@ -3,7 +3,7 @@ import Image from "next/image";
 import { useState } from "react";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 
-const menuImages = ["/menu2.webp", "/menu1.avif"]; // Add more as needed
+const menuImages = ["/menu1.avif", "/menu2.jpeg"]; // Add more as needed
 
 export default function MenuSection() {
   const [index, setIndex] = useState(0);
