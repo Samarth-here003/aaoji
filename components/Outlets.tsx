@@ -6,11 +6,11 @@ import Image from "next/image";
 
 const outlets = [
   {
-    name: "Gianis Red Icecream",
+    name: "Icecream",
     image: "/icecream.jpg",
   },
   {
-    name: "Gianis Blue Icecream",
+    name: "Dounout",
     image: "/dounout.jpeg",
   },
 ];
